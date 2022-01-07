@@ -22,3 +22,9 @@
 - Akun Operator dan Masyarakat
 - Security menggunakan SHA-256
 - menu cari user untuk simulasi
+
+### Versi 1.0.1
+#### Website Informasi Desa
+- 
+#### Santan Desa
+- 
