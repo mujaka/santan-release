@@ -1,5 +1,16 @@
 ## Informasi Update Aplikasi Santan dan Website Desa
 
+### Versi 1.0.1
+#### Website Informasi Desa
+- Migrasi Domain ke desamuba.id
+#### Santan Desa
+- Penambahan Menu Tanah Milik Desa
+- Penambahan Fitur Operator dapat membuat user dari akun user
+- Penambahan Fitur Status Tanah
+- Migrasi ke Santan Domain Desa
+- Fix Bug
+
+
 ### Versi 1.0.0
 #### Website Informasi Desa
 - Pelayanan Online
