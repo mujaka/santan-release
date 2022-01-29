@@ -8,6 +8,7 @@
 - Penambahan Fitur Operator dapat membuat user dari akun user
 - Penambahan Fitur Status Tanah
 - Migrasi ke Santan Domain Desa
+- Hapus Menu Cari User
 - Fix Bug
 
 
