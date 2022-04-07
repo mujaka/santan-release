@@ -1,5 +1,19 @@
 ## Informasi Update Aplikasi Santan dan Website Desa
 
+### Versi 1.0.2
+#### Website Informasi Desa
+- Fix Bug Lembaga Desa
+- Fix Bug Wisata Desa
+- Fix Bug Informasi Publik
+- Pengelolaan Profil Operator
+- Fix Bug Tampilan Menu Background Website
+
+#### Santan Desa
+- Fix Bug Operator Santan Desa
+- Tambah Menu Tanah Desa
+- Fix Bug Gambar, Dokumen dan File
+
+
 ### Versi 1.0.1
 #### Website Informasi Desa
 - Migrasi Domain ke desamuba.id
