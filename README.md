@@ -1,5 +1,13 @@
 ## Informasi Update Aplikasi Santan dan Website Desa
 
+### Versi 2.0.0
+#### Santan Desa
+- Update UI Web Apps
+- Santan Desa Update Versi Android
+- Menejemen Menu
+- Fix Bug
+
+
 ### Versi 1.0.2
 #### Website Informasi Desa
 - Fix Bug Lembaga Desa
